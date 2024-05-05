@@ -1,0 +1,12 @@
+/*!*********************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/css/style.css ***!
+  \*********************************************************************/
+body {
+	color: #999;
+}
+.box{
+	width: 20vw;
+	height: 20vw;
+	overflow: hidden;
+	background-color: lightblue;
+}

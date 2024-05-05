@@ -1,0 +1,9 @@
+body {
+	color: #999;
+}
+.box{
+	width: 20vw;
+	height: 20vw;
+	overflow: hidden;
+	background-color: lightblue;
+}
